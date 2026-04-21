@@ -152,3 +152,8 @@ export default function Stats() {
     </div>
   );
 }
+
+
+git remote add origin https://github.com/alokaman142/order-app.git
+>> git push -u origin main                                                                      
+                          
