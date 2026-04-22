@@ -1,8 +1,9 @@
-{
-  "rewrites": [
-    {
-      "source": "/((?!assets|.*\\..*).*)",
-      "destination": "/index.html"
-    }
-  ]
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build"
+}
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
 }
